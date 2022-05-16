@@ -24,6 +24,5 @@ void printFullText(String text) {
 String? ID = '';
 String? FORGET = '';
 String? LANG = '';
-String IamedUser = 'https://sbobaapp.com/sboba/api/user/Uploads/';
 
 
