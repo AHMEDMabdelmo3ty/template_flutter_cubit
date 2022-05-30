@@ -45,6 +45,8 @@ dependencies:
   sentry_flutter: ^6.4.0
   persistent_bottom_nav_bar: ^4.0.2
   connectivity: ^3.0.6
+  pod_player: ^0.0.5
+  horizontal_card_pager: ^1.1.1
 
 
 dev_dependencies:
