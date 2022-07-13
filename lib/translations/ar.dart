@@ -12,7 +12,5 @@ var arabicSupport = {
   'I_want_to_hire': 'احتاج الى عماله',
   'Please_Choose_any_one': 'الرجاء اختيار أي واحد',
   'Continue': 'اكمل',
-  //  Details Screen
-
 };
 //lang
