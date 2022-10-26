@@ -51,7 +51,6 @@ class MyApp extends StatelessWidget {
         BlocProvider(
           create: (context) => AppCubit(),
         ),
-
       ],
       child: BlocConsumer<AppCubit, AppStates>(
         listener: (context, state) {},
@@ -60,7 +59,6 @@ class MyApp extends StatelessWidget {
             debugShowCheckedModeBanner: false,
             builder: (c) => MaterialApp(
               debugShowCheckedModeBanner: false,
-
               home: startWidget,
             ),
           );
