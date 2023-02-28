@@ -7,6 +7,13 @@ import 'package:quds_interactive/quds_interactive.dart';
 import '../styles/colors.dart';
 
 
+
+
+extension EmptyPadding on num {
+  SizedBox get ph => SizedBox(height: toDouble());
+  SizedBox get pw => SizedBox(width: toDouble());
+}
+
 Widget SettingsItemButton(
     mq,
     IconData assetString,
